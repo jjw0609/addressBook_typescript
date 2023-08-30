@@ -1,1 +1,1 @@
-# 타입스크립트 강의 예제
+# typescript example
